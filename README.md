@@ -13,7 +13,7 @@ Such as:
 During the course this project I have used various resourses in order to gain a better grasp of these technologys aswell as for debuging.
 
 They include:
-* [W3Schools]([url](https://www.w3schools.com/)) - Used to learn about HTML CSS.
+* [W3Schools]((https://www.w3schools.com/)) - Used to learn about HTML CSS.
 * [PHP Course by Traversy Media]([url](https://www.youtube.com/watch?v=BUCiSSyIGGU)) - To learn PHP.
 * [PHP Documentation]([url](https://www.php.net/))
 * [MongoDB Documentation]([url](https://www.mongodb.com/docs/))
