@@ -1,4 +1,4 @@
-# CODEINFINITY-TEST1
+# Code Infinity Proficency Test - 1
 
 > This project is my interpritation of the requriements stated in the test document.
 
